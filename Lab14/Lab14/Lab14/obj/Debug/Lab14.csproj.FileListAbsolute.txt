@@ -1,0 +1,6 @@
+C:\Users\taina\Documents\Git\coursera\Beginning Game Programming with C#\Lab14\Lab14\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\taina\Documents\Git\coursera\Beginning Game Programming with C#\Lab14\Lab14\Lab14\obj\Debug\Lab14.csprojResolveAssemblyReference.cache
+C:\Users\taina\Documents\Git\coursera\Beginning Game Programming with C#\Lab14\Lab14\Lab14\bin\Debug\Lab14.exe
+C:\Users\taina\Documents\Git\coursera\Beginning Game Programming with C#\Lab14\Lab14\Lab14\bin\Debug\Lab14.pdb
+C:\Users\taina\Documents\Git\coursera\Beginning Game Programming with C#\Lab14\Lab14\Lab14\obj\Debug\Lab14.exe
+C:\Users\taina\Documents\Git\coursera\Beginning Game Programming with C#\Lab14\Lab14\Lab14\obj\Debug\Lab14.pdb
